@@ -12,4 +12,4 @@ Artifact 	interface
 
 ---
 
-Example: _card Ornitopter extends Card, implements Creature, Artifact_
+Example: _card Ornithopter extends Card, implements Creature, Artifact_
