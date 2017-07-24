@@ -3,6 +3,8 @@
 
 ---
 
+**Interface + Class**
+
 * Creature 	interface
 * Planeswalker 	interface
 * Enchantment 	interface
