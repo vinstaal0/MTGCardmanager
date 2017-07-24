@@ -1,0 +1,22 @@
+package me.Vinstaal0.MTGManager.Utility;
+
+public class Location {
+
+	Location.Type type;
+	int slot;
+
+	public Location(Location.Type type, int slot) {
+		this.type = type;
+		this.slot = slot;
+	}
+
+	enum Type {
+		DECK,
+		HAND,
+		EXILE,
+		BATTELFIELD,
+		GRAVEYARD,
+		CUSTOM;
+	}
+
+}
