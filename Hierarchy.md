@@ -1,6 +1,8 @@
 * Card 		class
 * Card 		interface
 
+---
+
 * Creature 	interface
 * Planeswalker 	interface
 * Enchantment 	interface
